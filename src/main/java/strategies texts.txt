@@ -1,0 +1,8 @@
+pm2.5 vs ForestArea
+ForestArea vs gdp
+co2 vs energy
+co2 vs pm2.5
+co2 vs gdp
+co2 vs ForestArea
+population vs pm2.5
+Forest Area
